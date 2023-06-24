@@ -3,10 +3,11 @@
 Template which I followed for asking referrals to people on LinkedIn .
 <strong>
 -
-  "Hi { name of the person }
+  "Hi { name of the person },
 
-Hope you are doing well .
-Recently I came across an opening in { company name } for { role } for { year of graduation } grads .
+Hope you are doing well!
+
+Recently I came across an opening in { company name } for { role }.
 
 The job id for the same is { job id } . 
 
