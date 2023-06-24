@@ -2,8 +2,8 @@
 
 Template which I followed for asking referrals to people on LinkedIn .
 <strong>
--
-  "Hi { name of the person },
+
+"Hi { name of the person },
 
 Hope you are doing well!
 
